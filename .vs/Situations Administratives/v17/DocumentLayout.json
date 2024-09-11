@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|c:\\users\\republic of computer\\desktop\\situations administratives\\situations administratives\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|c:\\users\\republic of computer\\desktop\\situations administratives\\situations administratives\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|c:\\users\\republic of computer\\desktop\\situations administratives\\situations administratives\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\misedisposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\misedisposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\misedisposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\misedisposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\licenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\licenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\licenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\licenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\exemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\exemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\exemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\exemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\detachementsyndical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\detachementsyndical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\detachementsyndical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\detachementsyndical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\d\u00E9position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\d\u00E9position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\d\u00E9position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\d\u00E9position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\affectation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\affectation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\forms\\affectation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\forms\\affectation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\situations administratives\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C28584-0735-46AA-BC84-CF8BDB4940CD}|Situations Administratives\\Situations Administratives.csproj|solutionrelative:situations administratives\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\login.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\login.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\login.cs",
+              "RelativeToolTip": "Situations Administratives\\Forms\\login.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwG8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:03:28.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\login.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\login.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\login.cs [Design]",
+              "RelativeToolTip": "Situations Administratives\\Forms\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:02:51.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Licenses.cs",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Licenses.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\Licenses.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Licenses.cs",
+              "RelativeToolTip": "Situations Administratives\\Forms\\Licenses.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAmwJcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:15:37.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Licenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Licenses.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\Licenses.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Licenses.cs [Design]",
+              "RelativeToolTip": "Situations Administratives\\Forms\\Licenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:15:36.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exemption.cs",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Exemption.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\Exemption.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Exemption.cs",
+              "RelativeToolTip": "Situations Administratives\\Forms\\Exemption.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAmwBkBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:15:09.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exemption.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Exemption.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\Exemption.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Exemption.cs [Design]",
+              "RelativeToolTip": "Situations Administratives\\Forms\\Exemption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:14:59.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetachementSyndical.cs",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\DetachementSyndical.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\DetachementSyndical.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\DetachementSyndical.cs",
+              "RelativeToolTip": "Situations Administratives\\Forms\\DetachementSyndical.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAA8wAQBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:14:35.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetachementSyndical.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\DetachementSyndical.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\DetachementSyndical.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\DetachementSyndical.cs [Design]",
+              "RelativeToolTip": "Situations Administratives\\Forms\\DetachementSyndical.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:14:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "D\u00E9position.cs",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\D\u00E9position.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\D\u00E9position.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\D\u00E9position.cs",
+              "RelativeToolTip": "Situations Administratives\\Forms\\D\u00E9position.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAwwAsBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:14:05.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "D\u00E9position.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\D\u00E9position.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\D\u00E9position.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\D\u00E9position.cs [Design]",
+              "RelativeToolTip": "Situations Administratives\\Forms\\D\u00E9position.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:14:03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Affectation.cs",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Affectation.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\Affectation.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Affectation.cs",
+              "RelativeToolTip": "Situations Administratives\\Forms\\Affectation.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAwwA8BAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:13:12.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Affectation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Affectation.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\Affectation.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\Affectation.cs [Design]",
+              "RelativeToolTip": "Situations Administratives\\Forms\\Affectation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:13:11.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\DGVPrinter.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\DGVPrinter.cs",
+              "RelativeToolTip": "Situations Administratives\\DGVPrinter.cs",
+              "ViewState": "AgIAAGYGAAAAAAAAAIAwwHoGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:01:54.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiseDisposition.cs",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\MiseDisposition.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\MiseDisposition.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\MiseDisposition.cs",
+              "RelativeToolTip": "Situations Administratives\\Forms\\MiseDisposition.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAIwPUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:23:25.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiseDisposition.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\MiseDisposition.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Forms\\MiseDisposition.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Forms\\MiseDisposition.cs [Design]",
+              "RelativeToolTip": "Situations Administratives\\Forms\\MiseDisposition.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:23:23.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Program.cs",
+              "RelativeDocumentMoniker": "Situations Administratives\\Program.cs",
+              "ToolTip": "C:\\Users\\Republic Of Computer\\Desktop\\Situations Administratives\\Situations Administratives\\Program.cs",
+              "RelativeToolTip": "Situations Administratives\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:52:37.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
